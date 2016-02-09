@@ -1,0 +1,16 @@
+{
+  "name": "andeersg/netsocr-php",
+  "type": "library",
+  "version": "1.0.0",
+  "description": "Parse OCR files from Nets",
+  "keywords": ["parser"],
+  "homepage": "https://github.com/andeersg/NetsOCR-php",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "NetsOCR": "src/"
+    }
+  }
+}
