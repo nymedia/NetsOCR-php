@@ -4,6 +4,7 @@
   "description": "Parse OCR files from Nets",
   "keywords": ["parser"],
   "homepage": "https://github.com/nymedia/NetsOCR-php",
+  "license": "MIT",
   "require": {
     "php": ">=5.4.0"
   },
